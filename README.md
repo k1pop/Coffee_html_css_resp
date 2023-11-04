@@ -15,6 +15,7 @@ Site web Responsive en HTML / CSS
 
 ![Capture d’écran 2023-11-04 à 15 42 12](https://github.com/k1pop/Coffee_html_css_resp/assets/58728776/e6156907-f42f-4a25-8e53-5012d136d42e)
 
+![Capture d’écran 2023-11-04 à 15 46 55](https://github.com/k1pop/Coffee_html_css_resp/assets/58728776/779c88f8-5c9f-4230-b7e2-e31f271a1e60)
 
 
 
